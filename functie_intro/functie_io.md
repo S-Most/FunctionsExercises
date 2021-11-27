@@ -32,9 +32,17 @@ Output
 ```
 
 
-```exercise
-Maak een functie die volume van een kubus berekent. Alle zijden van een kubus zijn even lang. Bereken vervolgens de volumes van kubussen van met zijden van lengte 5, 10 en 20.
-```
+
+Maak een functie die het volume van een kubus berekent. \
+`volume kubus = lengte * breedte * hoogte` \
+Alle zijden van een kubus zijn even lang.  
+Bereken vervolgens de volumes van kubussen van met zijden van lengte `5`, `10` en `20`.
+
+## Nieuwe technieken
+Return-statement in functies
+
+## Verboden technieken
+Binnenin de functie printen
 
 ## Verwachte uitkomst
 ```bash

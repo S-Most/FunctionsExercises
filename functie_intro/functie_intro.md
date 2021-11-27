@@ -1,6 +1,6 @@
 # Python Novice -> Back to Basics extra uitleg en exercises over functies
 Python Novice->2.Back to basics -> 5. Rekenmachine is de enige exercise die over functies in het Data traject.
-Aangezien functies een vrij fundamenteel onderwerp zijn in programmeren, lijkt het me goed om wat meer aandacht eraan te bestedem.
+Aangezien functies een vrij fundamenteel onderwerp zijn in programmeren, lijkt het me goed om wat meer aandacht eraan te besteden.
 Daarom heb ik drie exercises gemaakt om de student meer kennis te laten maken met functies.
 
 
