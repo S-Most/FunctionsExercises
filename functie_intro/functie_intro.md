@@ -4,7 +4,6 @@ Python heeft dan voor jou de perfecte oplossing, functies.
 
 ```info
 Een functie in python is een groepje nauwverwante code dat een specifieke taak uitvoert.
-
 ```
 
 Stel je maakt een programma dat checkt of een woord een `even` of een `oneven` aantal karakters bevat:

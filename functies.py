@@ -2,12 +2,14 @@
 
 # Functies zijn handig voor herhalende stukken code. Je kan de functies echter wel andere dingen laten doen aan de hand van de input.
 
+
 def berekening(getal1, operatie, getal2):
-    if operatie == "+": 
+    if operatie == "+":
         uitkomst = getal1 + getal2
-    elif operatie == "-": 
+    elif operatie == "-":
         uitkomst = getal1 - getal2
     print(uitkomst)
+
 
 print("Functie 1:")
 berekening(8, "-", 3)
@@ -20,19 +22,16 @@ except NameError:
 
 
 def berekening2(getal1, operatie, getal2):
-    if operatie == "+": 
+    if operatie == "+":
         uitkomst = getal1 + getal2
-    elif operatie == "-": 
+    elif operatie == "-":
         uitkomst = getal1 - getal2
     return uitkomst
+
 
 antwoord = berekening2(8, "-", 3)
 print("Functie 2:")
 print("De uitkomst is", antwoord)
-
-
-
-
 # Maak een functie die elk nth element uit de getallenreeks printen
 
 # getallen = range(0,20)
@@ -43,7 +42,6 @@ print("De uitkomst is", antwoord)
 
 # nElement(getallen, 3)
 # nElement(getallen, 4)
-
 
 # # Oefenen met returnwaardes
 
