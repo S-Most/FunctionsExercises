@@ -44,7 +44,7 @@ Output
 > even
 ```
 
-Nu merk je dat je twee keer hetzelfde aan het schrijven bent. Nu hetzelfde programma, maar dan met gebruik van functies:
+Nu merk je dat je twee keer hetzelfde aan het schrijven bent. Dat kan beter. Nu hetzelfde programma, maar dan met gebruik van een functie:
 ```python
 def checkEvenOfOneven(woord):
     if len(woord) % 2 == 0: # de lengte van het woord is even
@@ -64,6 +64,12 @@ Output
 ```bash
 > oneven
 > even
+```
+
+Probeer eens zelf een functie te maken in `Python`.
+
+```exercise
+Maak een functie die checkt of 'a' in een string zit. Als 'a' in de string zit, print "a zit in de string", anders "a zit niet in de string"
 ```
 
 # Volgende pagina -> functie syntax
